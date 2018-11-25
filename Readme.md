@@ -20,6 +20,9 @@ Sub-folders
 
 
 Analysis / work done
+====================
+START
+
 1. Load in the features
 
 2. determine the fearures needed so that we can extract those and work on a smaller set of collected data
@@ -33,8 +36,8 @@ Analysis / work done
 
 5. Give descriptive names i.e. replace the number codes with descriptive text of the activity (walking etc ..)
 
-6  Find the means as instructed
+6.  Find the means as instructed
 
-7  Give descriptive names (instead of Group-1, Group-2) to the cols we group-by when using the aggregate function
+7.  Give descriptive names (instead of Group-1, Group-2) to the cols we group-by when using the aggregate function
 
 END

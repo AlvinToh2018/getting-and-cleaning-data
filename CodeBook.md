@@ -1,5 +1,27 @@
-1. For the source data & analysis, refer to README.MD
-2. The analysis is also documented as comments within the code
+Analysis / work done
+====================
+
+START
+
+1. Load in the features
+
+2. Determine the fearures needed so that we can extract those and work on a smaller set of collected data
+
+3. Load in the data : the recorded data (training & test), subjects
+
+4. Re-construct / de-normalise the training and test data : merge the (human) subject, (activity) label, recorded data cols together merge the training and test data together (append below)
+
+5. Give descriptive names i.e. replace the number codes with descriptive text of the activity (walking etc ..)
+
+6. Find the means as instructed
+
+7. Give descriptive names (instead of Group-1, Group-2) to the cols we group-by when using the aggregate function
+
+8. Output as file 'submit_tidy_data.txt'
+
+END
+
+Note: The analysis is also documented as comments within the code
 
 New variables created
 =====================

@@ -4,7 +4,9 @@
 New variables created
 =====================
 features: list of all features
-features_need: feactures containing mean (‘mean’)and standard deviation(‘std’)
+
+features_need: feactures containing mean (â€˜meanâ€™)and standard deviation(â€˜stdâ€™)
+
 data_train / data_test: training / test set
 data_train_need / data_test_need: training / test set with features we need, those containing mean and standard deviation
 label_train / label_test: training / test labels

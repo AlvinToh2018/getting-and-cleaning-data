@@ -36,8 +36,10 @@ START
 
 5. Give descriptive names i.e. replace the number codes with descriptive text of the activity (walking etc ..)
 
-6.  Find the means as instructed
+6. Find the means as instructed
 
-7.  Give descriptive names (instead of Group-1, Group-2) to the cols we group-by when using the aggregate function
+7. Give descriptive names (instead of Group-1, Group-2) to the cols we group-by when using the aggregate function
+
+8. Output as file 'submit_tidy_data.txt'
 
 END
